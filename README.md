@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # It's a simple pygame about Mr. Svin.
 ## Gameplay
 The gameplay is based on the card game "Trunks". The rules are simple: either collect as many chests (a chest is four cards of the same rank) as your opponent, or get rid of the cards in your hand first. You name the rank of the card you want to check from your opponent (the main thing is that the card of the same rank was in your hand) and if he has it, he gives all the cards of this rank to you, then you name the card again. If you don't guess (which is most often the case), the turn passes to your opponent.
