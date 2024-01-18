@@ -32,5 +32,4 @@ You can download pre-compiled app for windows in the release tab
 ### !!!ATTENTION WINDOWS DEFENDER DEFINES THE COMPILED RELEASE AS A THREAT, I RECOMMEND TO TURN OFF ANTIVIRUS PROGRAMS BEFORE RUNNING IT. THERE ARE NO VIRUSES IN THE RELEASE, THIS IS BECAUSE I PACKED IT WITH PYINSTALER!!!!!
 ### https://stackoverflow.com/questions/77257748/pyinstaller-exe-marked-as-virus
 =======
-start
->>>>>>> origin/master
+
